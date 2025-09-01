@@ -1,0 +1,24 @@
+#arquivos sensíveis
+credenciais.php
+
+#logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+*.old
+*.orig
+
+#cache
+cache/
+*.cache
+
+#arquivos de sistema
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+#configurações de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
